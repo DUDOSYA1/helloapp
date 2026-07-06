@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello");
+Console.WriteLine("Hello everyone");
 Console.ReadLine();
 
 public static class White
