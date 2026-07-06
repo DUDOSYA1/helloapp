@@ -1,4 +1,6 @@
 Console.WriteLine("Hello everyone");
+White.GreetWhite();
+Black.GreetBlack();
 Console.ReadLine();
 
 public static class White
